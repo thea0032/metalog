@@ -1,0 +1,14 @@
+[
+    {
+        "maxVelocity": 1,
+        "maxAcceleration": 1
+    },
+    {
+        "maxVelocity": 2,
+        "maxAcceleration": 1
+    },
+    {
+        "maxVelocity": 3,
+        "maxAcceleration": 1
+    }
+]
